@@ -64,5 +64,5 @@ I enjoy working with data, building machine learning models, evaluating their pe
 
 I'm always interested in working on practical Python, Data Analysis, and Machine Learning projects.
 
-**LinkedIn:** [Matin Khani](https://www.linkedin.com/in/matin-khani-09792943/)
+**LinkedIn:** [Matin Khani](www.linkedin.com/in/matin-khani-09792943b)
 **GitHub:** [Mat-een](https://github.com/Mat-een)
